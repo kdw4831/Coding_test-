@@ -1,6 +1,5 @@
-package Sector4_HashMap_TreeSet;
+package Sector4_HashMap_TreeSet.문제1_학급회장_해쉬;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
